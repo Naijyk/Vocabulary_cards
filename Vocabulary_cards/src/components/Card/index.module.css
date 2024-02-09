@@ -1,0 +1,17 @@
+.card {
+    border: 3px solid rgb(41, 128, 185);
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 30px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.cross {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
